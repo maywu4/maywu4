@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently a recent graduate of App Academy's full stack web development program.
 <!--
 **maywu4/maywu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
