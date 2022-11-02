@@ -1,6 +1,10 @@
 ### Hi there 👋
+I’m a recent graduate of App Academy, a full stack software engineering program. My portfolio projects include: Monetary Gain on the Brain, MomentCaptur, and WaveSense. Monetary Gain on the Brain is a data visualization application that shows how much a specified user inputted amount grows depending on various investments. MomentCaptur is a fullstack project with React/Redux on the frontend and Ruby on Rails on the backend. It is a Flickr clone, where users can create photo posts, add comments on others’ posts, and favorite posts. WaveSense is a one page audio visualizer application created utilizing the MongoDB, Express.js, React, and Node.js (MERN) stack. 
 
-I'm currently a recent graduate of App Academy's full stack web development program.
+Prior to software engineering, I primarily worked in public accounting as an auditor in the Real Estate industry.
+
+Currently, my hobbies include reading mystery novels and learning to play chess.
+
 <!--
 **maywu4/maywu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
