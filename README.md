@@ -1,9 +1,13 @@
 ### Hi there 👋
-I’m a recent graduate of App Academy, a full stack software engineering program. My portfolio projects include: Monetary Gain on the Brain, MomentCaptur, and WaveSense. Monetary Gain on the Brain is a data visualization application that shows how much a specified user inputted amount grows depending on various investments. MomentCaptur is a fullstack project with React/Redux on the frontend and Ruby on Rails on the backend. It is a Flickr clone, where users can create photo posts, add comments on others’ posts, and favorite posts. WaveSense is a one page audio visualizer application created utilizing the MongoDB, Express.js, React, and Node.js (MERN) stack. 
+I’m a results driven software engineer with experience in building web applications using modern frameworks and languages. I'm proficient in Python, JavaScript, React/Redux, Ruby on Rails, HTML, CSS, and SQL. 
 
-Prior to software engineering, I primarily worked in public accounting as an auditor in the Real Estate industry.
 
-Currently, my hobbies include reading mystery novels and learning to play chess.
+My portfolio projects include:
+- :dollar: [Monetary Gain on the Brain](https://maywu4.github.io/javascript_project/): A single page data visualization application that forecasts how much an amount grows depending on various investments.
+- :camera_flash: [MomentCaptur](https://momentcaptur.herokuapp.com/): A photography sharing application inspired by Flickr where users can create photo posts, create comments, and like posts.
+- :musical_note: [WaveSense](https://wavesense.onrender.com/): A single-page audio visualizer application where users can select available songs or load local files and see a visual display of movements based on audio waves.
+
+For more information, please visit my [portfolio site](https://maywu4.github.io/personal_portfolio/) or connect with me on [LinkedIn](https://www.linkedin.com/in/maywu4/).
 
 <!--
 **maywu4/maywu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
